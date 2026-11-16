@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Figure">
+      <UniqueIdentifier>{6fd7d206-ccea-4c68-83ab-b0c8ce00f3c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Triangle">
+      <UniqueIdentifier>{349ee5bf-1859-4f58-90ae-471fee82bb1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RightTriangle">
+      <UniqueIdentifier>{5cb08a7d-717a-460a-a5eb-a32e9984f02e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IsoscelesTriangle">
+      <UniqueIdentifier>{5fc136ec-4541-47ea-9cd7-cdab892a8ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EquilateralTriangle">
+      <UniqueIdentifier>{b1bdc8ff-2e58-4962-a38e-b537e8f4cf88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quadrangle">
+      <UniqueIdentifier>{edf166f7-4e39-4a12-9c05-048b709a41ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Parallelogram">
+      <UniqueIdentifier>{e60d5645-1455-4be5-9b3b-4d91aef5cafe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rectangle">
+      <UniqueIdentifier>{a9bbc4e6-cfcb-460a-a1ab-96ca390a598d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Square">
+      <UniqueIdentifier>{329773b8-92f6-4ac5-94e8-ba82dd7d66de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rhombus">
+      <UniqueIdentifier>{90f0de22-a6c7-4422-b7d0-e399c1a9ca19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lesson17_03.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Figure.cpp">
+      <Filter>Figure</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Triangle</Filter>
+    </ClCompile>
+    <ClCompile Include="RightTriangle.cpp">
+      <Filter>RightTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="IsoscelesTriangle.cpp">
+      <Filter>IsoscelesTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="EquilateralTriangle.cpp">
+      <Filter>EquilateralTriangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Quadrangle.cpp">
+      <Filter>Quadrangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Parallelogram.cpp">
+      <Filter>Parallelogram</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Rectangle</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Square</Filter>
+    </ClCompile>
+    <ClCompile Include="Rhombus.cpp">
+      <Filter>Rhombus</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Figure.h">
+      <Filter>Figure</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Triangle</Filter>
+    </ClInclude>
+    <ClInclude Include="RightTriangle.h">
+      <Filter>RightTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="IsoscelesTriangle.h">
+      <Filter>IsoscelesTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="EquilateralTriangle.h">
+      <Filter>EquilateralTriangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Quadrangle.h">
+      <Filter>Quadrangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Parallelogram.h">
+      <Filter>Parallelogram</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Rectangle</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Square</Filter>
+    </ClInclude>
+    <ClInclude Include="Rhombus.h">
+      <Filter>Rhombus</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
